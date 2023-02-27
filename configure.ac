@@ -22,8 +22,8 @@ dnl
 dnl Process this file with autoconf to create configure.
 
 AC_PREREQ([2.60])
-AC_INIT([font-bitstream-type1], [1.0.3],
-        [https://gitlab.freedesktop.org/xorg/font/bitstream-type1/issues],
+AC_INIT([font-bitstream-type1], [1.0.4],
+        [https://gitlab.freedesktop.org/xorg/font/bitstream-type1/-/issues],
         [font-bitstream-type1])
 AM_INIT_AUTOMAKE([foreign dist-xz])
 
