@@ -8,6 +8,10 @@ In 1992, Bitstream contributed PostScript versions of the basic Charter BT and C
 These original files are still available and can be freely downloaded, but they can be hard to find.
 So I tracked them down and wrote a script to convert them into a new package of OTFs, TTFs, and webfonts.
 
+## Prerequisites
+
+- [FontForge](https://fontforge.org)
+
 ## Build
 
 ```bash
