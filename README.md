@@ -1,4 +1,4 @@
-# Charter BT and Courier 10 Pitch BT
+# Bitstream Fonts
 
 <img src="./Bitstream_Charter_spec.png" width="300" height="274">
 
